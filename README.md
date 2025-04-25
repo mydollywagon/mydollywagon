@@ -4,10 +4,11 @@
 - 💞️ I’m looking to collaborate on material science projects. 
 - 📫 How to reach me alison.freeman158@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I hate R. 
+- ⚡ Fun fact: I hate R.
+- Can this be seen? 
 
 <!---
 mydollywagon/mydollywagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Can this be seen? 
+
